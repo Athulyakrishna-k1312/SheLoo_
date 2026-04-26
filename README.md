@@ -193,7 +193,7 @@ sheloo/
 
 ### Option 1 — Open directly
 ```bash
-git clone https://github.com/your-username/sheloo.git
+git clone https://github.com/Athulyakrishna-k1312/sheloo.git
 cd sheloo
 # Open index.html in your browser
 open index.html        # macOS
@@ -277,8 +277,8 @@ Community Trust Score     →  avg_score × log(review_count + 1)
 
 ## 👥 Team
 
-**Illusive Coders**
-IEEE Computer Society — Kerala Chapter Hackathon
+**ILLUSIA CODERS**
+Athulyakrishna K
 
 ---
 
