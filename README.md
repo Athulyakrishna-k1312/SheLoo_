@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  <a href="https://your-username.github.io/sheloo/"><strong>🔴 Live Demo</strong></a>
+  <a href="[https://your-username.github.io/sheloo/](https://athulyakrishna-k1312.github.io/SheLoo_/)"><strong>🔴 Live Demo</strong></a>
   &nbsp;·&nbsp;
   <a href="#features"><strong>Features</strong></a>
   &nbsp;·&nbsp;
